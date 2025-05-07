@@ -72,12 +72,11 @@ source env/bin/activate  # En Windows: env\Scripts\activate
 ```
 
 
-4. Instala las dependencias necesarias:
-   ```plaintext
-pip install pandas matplotlib seaborn plotly notebook 
-    ```
-
-    
+## 🚀 Ejecución 
+1. Abre Jupyter Notebook:
+  ```plaintext
+jupyter notebook Juan's_appliance_center_dataanalysis.ipynb
+  ```
    
 ## 📄 Resumen ejecutivo 
 
