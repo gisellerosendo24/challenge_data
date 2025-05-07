@@ -24,9 +24,18 @@ Bienvenido al repositorio del primer desafío de Data Science para One. Este pro
 
 ```resumen_challenge```: Resumen ejecutivo sobre el proyecto
 
+
+## 📌 Objetivos del desafío 
+
+El objetivo principal de este proyecto es realizar un análisis exploratorio de los datos de ventas de cuatro tiendas de electrodomésticos. Se busca identificar patrones, tendencias y posibles áreas de mejora en el rendimiento de las tiendas.
+
 ## 🛠️ Tecnologías utilizadas 
 
+Lenguajes de programación:
+
 - Python
+  
+Bibliotecas:
 
 - Pandas
 
@@ -36,15 +45,11 @@ Bienvenido al repositorio del primer desafío de Data Science para One. Este pro
 
 - Plotly
 
+Entorno de desarrollo:
+
 - Jupyter Notebook
 
-## 📌 Objetivos del desafío 
 
-- Aplicar técnicas de análisis de datos en proyectos reales.
-  
-- Desarrollar habilidades en limpieza y visualización de datos.
-  
-- Generar insights que puedan influir en decisiones comerciales.
 
 ## ⚙️ Instalación
 
@@ -69,17 +74,27 @@ source env/bin/activate  # En Windows: env\Scripts\activate
 
 4. Instala las dependencias necesarias:
    ```plaintext
-   pip install pandas matplotlib seaborn plotly notebook
-   ```
+pip install pandas matplotlib seaborn plotly notebook
+    ```
 
 
 ## 🚀 Ejecución 
 1. Abre Jupyter Notebook:
-   ```plaintext
-
+    ```plaintext
+jupyter notebook Juan's_appliance_center_dataanalysis.ipynb
+    ```
    
-2. Abre los archivos .ipynb desde el navegador y ejecuta las celdas para explorar los análisis de datos.
+## 📄 Resumen ejecutivo 
 
+Para obtener un resumen detallado del desafío, consulta el archivo resumen_challenge.pdf.
+
+## 📌 Contribuciones
+
+Este proyecto es parte del desafío de Data Science para One. Las contribuciones son bienvenidas. Si deseas colaborar, por favor, sigue las pautas de contribución establecidas en el repositorio.
+
+## 📬 Contacto 
+
+Para cualquier consulta o comentario, puedes contactar al autor del repositorio a través de su perfil de GitHub: gisellerosendo24.
 
 
 
