@@ -65,8 +65,15 @@ cd challenge_data
 ```
 
 
-
-
+3. Instala las dependencias necesarias:
+  ```plaintext
+pip install -r requirements.txt
+```
+   
+4. Abre y ejecuta el notebook de ánalisis:
+  ```plaintext
+jupyter notebook Juan's_appliance_center_dataanalysis.ipynb
+```
 
 
 
