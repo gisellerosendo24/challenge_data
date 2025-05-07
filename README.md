@@ -65,11 +65,9 @@ cd challenge_data
 ```
 
 
-3. (Opcional) Crea y activa un entorno virtual:
-  ```plaintext
-python -m venv env
-source env/bin/activate  # En Windows: env\Scripts\activate
-```
+
+
+
 
 
 ## 🚀 Ejecución 
